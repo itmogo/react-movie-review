@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import MovieReviewClass from './MovieReviewClass';
 import MovieReviewFunction from './MovieReviewFunction';
